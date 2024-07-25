@@ -1,0 +1,13 @@
+{
+    "name": "promise-example",
+    "version": "1.0.0",
+    "description": "A simple example to demonstrate promises",
+    "main": "0-main.js",
+    "scripts": {
+      "dev": "node 0-main.js"
+    },
+    "author": "Hassan Abdel Fattah",
+    "license": "ISC",
+    "type": "module"
+  }
+  
