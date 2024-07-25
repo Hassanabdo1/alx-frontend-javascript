@@ -2,11 +2,11 @@
   "name": "promise-example",
   "version": "1.0.0",
   "description": "A simple example to demonstrate promises",
-  "main": "1-main.js",
+  "main": "2-main.js",
   "scripts": {
-    "dev": "node 1-main.js"
+    "dev": "node 2-main.js"
   },
-  "author": "HassanAbdelFattah",
+  "author": "Hassan Abdel Fattah",
   "license": "ISC",
   "type": "module"
 }
